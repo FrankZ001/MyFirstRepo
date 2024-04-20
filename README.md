@@ -7,3 +7,5 @@ My First Github Repository
 99*33
 
 * add a 2nd line of text from Github editor
+
+add 3rd line of text from RStudio
