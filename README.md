@@ -6,4 +6,4 @@ My First Github Repository
 9+7
 99*33
 
-
+* add a 2nd line of text from Github editor
